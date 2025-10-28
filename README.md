@@ -1,63 +1,64 @@
-<!-- Profile Header -->
+<!-- Centered Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=900&color=36C5F0&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Saurav+Kumar+Sah;MERN+Stack+Developer;I+build+scalable+web+apps+%26+real-time+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saurav+Kumar+Sah;MERN+Stack+Developer;I+build+scalable+web+apps+%26+real-time+experiences" alt="Typing Intro" />
 </p>
 
 <p align="center">
-  <a href="https://saurav-portfolio-dun.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sauravkumarsah-dev">LinkedIn</a> •
-  <a href="https://www.geeksforgeeks.org/user/sauravkumarsahdev/">GeeksforGeeks</a> •
-  <a href="https://github.com/saurav-kumar-sah-dev?tab=repositories">Projects</a>
+  <a href="https://saurav-portfolio-dun.vercel.app"><b>Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/sauravkumarsah-dev"><b>LinkedIn</b></a> ·
+  <a href="https://www.geeksforgeeks.org/user/sauravkumarsahdev/"><b>GeeksforGeeks</b></a> ·
+  <a href="https://github.com/saurav-kumar-sah-dev?tab=repositories"><b>Projects</b></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-121212?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
-  <img src="https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/TailwindCSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/MERN-111827?style=for-the-badge&logo=mongodb&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
+  <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=4ade80" />
 </p>
 
-### 👋 About me
-- Final‑year B.Tech CSE • MERN developer focused on clean UX and reliable backends  
-- Interests: real‑time apps (WebSockets/WebRTC), e‑commerce, collaboration tools, and performance
+---
 
-### 🧰 Tech
-- **Frontend**: React, Vite, React Router, Context API, Tailwind CSS  
-- **Backend**: Node.js, Express, REST APIs, JWT/Auth, Multer, Cloudinary  
-- **DB/Infra**: MongoDB, Mongoose, Vercel, Render, Netlify  
-- **Extras**: Razorpay, Socket.IO, WebRTC, Zod/Yup, Postman
+### 👨‍💻 About
+Final‑year B.Tech CSE and MERN developer focused on clean UX, reliable backends, and real‑time features (WebSockets/WebRTC).
 
-### 🚀 Featured projects
-- **Kommercen** — Full‑stack e‑commerce (MERN) with JWT auth, Razorpay, Cloudinary, admin dashboard  
+- Love: e‑commerce, collaboration tools, performance tuning
+- Currently: shipping full‑stack apps with scalable architecture and solid DX
+
+### 🧰 Stack
+- **Frontend**: React, Vite, React Router, Context API, Tailwind CSS
+- **Backend**: Node.js, Express, REST, JWT/Auth, Multer, Cloudinary
+- **DB/Infra**: MongoDB, Mongoose, Vercel/Render/Netlify
+- **Extras**: Razorpay, Socket.IO, WebRTC, Postman
+
+### 🚀 Featured Projects
+- **Kommercen** — Full‑stack e‑commerce with JWT auth, Razorpay payments, Cloudinary, admin dashboard  
   `React` `Express` `MongoDB` `Razorpay` `Cloudinary`
 - **Connestro** — Real‑time social platform with messaging, calls, stories, reels, moderation  
   `Socket.IO` `WebRTC` `MongoDB` `React`
 - **SyncRunCode** — Online code compiler & IDE with live collaboration and admin panel  
   `WebSockets` `Monaco` `Node.js` `React`
-- **Portfolio** — Modern personal site (dark/light), projects, skills, contact  
+- **BlogAxis** — Blog app with auth, drafts, profiles, notifications and admin tools  
+  `MERN` `Realtime`
+- **Portfolio** — Modern personal site with dark/light mode and contact  
   `MERN` `Tailwind`
-- **BlogAxis** — Full‑featured blog app with auth, drafts, profiles, notifications  
-  `MERN` `Admin` `Real‑time`
 
-Tip: Pin these repos on your profile for quick discovery.
-
-### 📊 GitHub stats
+### 📈 Stats
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saurav-kumar-sah-dev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=saurav-kumar-sah-dev&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img height="158" src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" />
 </p>
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-kumar-sah-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-kumar-sah-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📬 Connect
-- Portfolio: https://saurav-portfolio-dun.vercel.app  
-- LinkedIn: https://www.linkedin.com/in/sauravkumarsah-dev  
-- GeeksforGeeks: https://www.geeksforgeeks.org/user/sauravkumarsahdev/  
+### 📬 Contact
+- Portfolio: https://saurav-portfolio-dun.vercel.app
+- LinkedIn: https://www.linkedin.com/in/sauravkumarsah-dev
+- GeeksforGeeks: https://www.geeksforgeeks.org/user/sauravkumarsahdev
 - Instagram: https://www.instagram.com/saurav_shubham903
 
-<!-- Footer -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saurav-kumar-sah-dev&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saurav-kumar-sah-dev&style=flat-square&color=0ea5e9" alt="Profile views" />
 </p>

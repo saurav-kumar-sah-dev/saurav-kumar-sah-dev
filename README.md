@@ -50,7 +50,6 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
 ### 📈 Stats
 <div align="center">
 
-  <!-- Profile Summary Card -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav-kumar-sah-dev&theme=tokyonight" 
     alt="Profile Details" 
@@ -58,17 +57,15 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
     style="margin: 6px;"
   />
 
-  <!-- Streak Stats (Heroku Mirror - Stable) -->
- <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats">
     <img 
-      src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" 
       alt="GitHub Streak" 
-      height="170"
-      style="margin:6px;"
+      height="170" 
+      style="margin: 6px;"
     />
   </a>
 
-  <!-- Most Commit Language -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurav-kumar-sah-dev&theme=tokyonight" 
     alt="Top Languages" 
@@ -77,6 +74,7 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
   />
 
 </div>
+
 
 
 ### 📬 Contact

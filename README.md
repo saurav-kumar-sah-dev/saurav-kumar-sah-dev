@@ -21,10 +21,13 @@
 ---
 
 ### 👨‍💻 About
-Final‑year B.Tech CSE and MERN developer focused on clean UX, reliable backends, and real‑time features (WebSockets/WebRTC).
+Final‑year B.Tech CSE and MERN stack developer focused on building scalable, production‑ready web apps with clean UX, robust APIs, and real‑time features.
 
-- Love: e‑commerce, collaboration tools, performance tuning
-- Currently: shipping full‑stack apps with scalable architecture and solid DX
+- Currently: shipping full‑stack products with JWT auth, Razorpay checkout, Cloudinary media, and admin dashboards
+- Strengths: e‑commerce flows, performance tuning, Socket.IO/WebRTC, reliable Node/Express backends, Vercel/Render deployments
+- Daily tools: React + Vite, Tailwind, React Router, Context API, Node.js, Express, MongoDB/Mongoose
+- Interests: e‑commerce, collaboration tools, real‑time experiences
+
 
 ### 🧰 Stack
 - **Frontend**: React, Vite, React Router, Context API, Tailwind CSS

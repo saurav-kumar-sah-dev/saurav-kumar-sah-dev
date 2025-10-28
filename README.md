@@ -56,11 +56,11 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
     style="vertical-align:top; margin:4px;"
   />
   <img
-    src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=450&date_format=j%20M%5B%20Y%5D&v=5"
-    alt="GitHub streak"
-    height="158"
-    style="vertical-align:top; margin:4px;"
-  />
+  src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=450&date_format=j%20M%5B%20Y%5D&type=png"
+  alt="GitHub streak"
+  height="158"
+  style="vertical-align:top; margin:4px;"
+/>
 </div>
 <div align="left">
   <img

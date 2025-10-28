@@ -50,7 +50,7 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
 ### 📈 Stats
 <p align="left">
   <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Profile details" style="vertical-align:top; margin:4px" />
-  <img height="158" src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&v=3" alt="GitHub streak" style="vertical-align:top; margin:4px" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=460&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
 </p>
 <p align="left">
   <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Top languages by commit" style="margin:4px" />

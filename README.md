@@ -46,11 +46,11 @@ Final‑year B.Tech CSE and MERN developer focused on clean UX, reliable backend
 
 ### 📈 Stats
 <p align="left">
-  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Profile details" />
-  <img height="158" src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Profile details" style="vertical-align:top; margin:4px" />
+  <img height="158" src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" style="vertical-align:top; margin:4px" />
 </p>
 <p align="left">
-  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Most used languages" />
+  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Top languages by commit" style="margin:4px" />
 </p>
 
 ### 📬 Contact

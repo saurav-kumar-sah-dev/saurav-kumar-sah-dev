@@ -63,15 +63,6 @@ Final-year **B.Tech CSE** student and **Full-Stack (MERN) Developer** passionate
     style="margin: 6px;"
   />
 
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" 
-      alt="GitHub Streak" 
-      height="170" 
-      style="margin: 6px;"
-    />
-  </a>
-
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurav-kumar-sah-dev&theme=tokyonight" 
     alt="Top Languages" 

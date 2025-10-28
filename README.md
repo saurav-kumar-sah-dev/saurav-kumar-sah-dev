@@ -48,13 +48,28 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
   `MERN` `Tailwind`
 
 ### 📈 Stats
-<p align="left">
-  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Profile details" style="vertical-align:top; margin:4px" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=460&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
-</p>
-<p align="left">
-  <img height="158" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurav-kumar-sah-dev&theme=tokyonight" alt="Top languages by commit" style="margin:4px" />
-</p>
+<div align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurav-kumar-sah-dev&theme=tokyonight"
+    alt="Profile details"
+    height="158"
+    style="vertical-align:top; margin:4px;"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=450&date_format=j%20M%5B%20Y%5D&v=5"
+    alt="GitHub streak"
+    height="158"
+    style="vertical-align:top; margin:4px;"
+  />
+</div>
+<div align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurav-kumar-sah-dev&theme=tokyonight"
+    alt="Top languages by commit"
+    height="158"
+    style="margin:4px;"
+  />
+</div>
 
 ### 📬 Contact
 - Portfolio: https://saurav-portfolio-dun.vercel.app

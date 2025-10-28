@@ -1,7 +1,8 @@
 <!-- Centered Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saurav+Kumar+Sah;Full-Stack+(MERN)+Developer;Java+%26+DSA+Enthusiast;I+build+scalable+web+apps+%26+real-time+experiences" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saurav+Kumar+Sah;Full-Stack+(MERN)+Developer;Passionate+about+clean+UI+%26+robust+APIs;Java+%26+DSA+for+strong+foundations" alt="Typing Intro" />
 </p>
+
 
 
 <p align="center">

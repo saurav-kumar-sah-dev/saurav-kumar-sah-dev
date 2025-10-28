@@ -23,13 +23,15 @@
 ---
 
 ### 👨‍💻 About  
-Final-year **B.Tech CSE** student and **Full-Stack (MERN) Developer** passionate about building scalable, production-ready web applications with clean UX, secure APIs, and real-time features. Alongside full-stack development, I regularly practice **Java and DSA** to strengthen my problem-solving and backend logic skills.  
+Final-year **B.Tech CSE** student and **Full-Stack (MERN) Developer** passionate about building scalable, production-ready web applications with clean UX, secure APIs, and real-time capabilities. Alongside full-stack development, I consistently practice **Java and DSA** to strengthen my problem-solving mindset and backend logic.
 
-- **Currently:** Developing full-stack products with JWT auth, Razorpay payments, Cloudinary media, and role-based admin dashboards  
-- **Strengths:** E-commerce flows, performance optimization, Socket.IO/WebRTC, and reliable Node/Express backends  
-- **Daily Tools:** React + Vite, Tailwind, React Router, Context API, Node.js, Express, MongoDB/Mongoose  
-- **Additional Skills:** Java, DSA, OOPs, REST APIs, Git/GitHub, Vercel/Render/Netlify deployments  
-- **Interests:** Scalable web apps, real-time collaboration tools, and modern UI/UX experiences  
+- **Currently:** Building full-stack applications with JWT authentication, Razorpay integration, Cloudinary media management, and role-based admin dashboards  
+- **Strengths:** E-commerce architecture, performance optimization, Socket.IO/WebRTC integration, and robust Node/Express backends  
+- **Daily Tools:** React + Vite, Tailwind CSS, React Router, Context API, Node.js, Express, MongoDB/Mongoose  
+- **Additional Skills:** Java, DSA, OOPs, RESTful APIs, Git/GitHub, and Vercel/Render/Netlify deployments  
+- **Interests:** Scalable web platforms, real-time collaboration tools, and clean, modern UI/UX design  
+
+---
 
 
 

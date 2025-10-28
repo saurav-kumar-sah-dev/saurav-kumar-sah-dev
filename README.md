@@ -6,10 +6,10 @@
 
 
 <p align="center">
-  <a href="https://saurav-portfolio-dun.vercel.app"><b>Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/sauravkumarsah-dev"><b>LinkedIn</b></a> ·
-  <a href="https://www.geeksforgeeks.org/user/sauravkumarsahdev/"><b>GeeksforGeeks</b></a> ·
   <a href="https://github.com/saurav-kumar-sah-dev?tab=repositories"><b>Projects</b></a>
+  <a href="https://saurav-portfolio-dun.vercel.app"><b>Portfolio</b></a> ·
+  
 </p>
 
 <p align="center">

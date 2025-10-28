@@ -59,13 +59,14 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
   />
 
   <!-- Streak Stats (Heroku Mirror - Stable) -->
- <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="170"
-  />
-</p>
+ <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" 
+      alt="GitHub Streak" 
+      height="170"
+      style="margin:6px;"
+    />
+  </a>
 
   <!-- Most Commit Language -->
   <img 

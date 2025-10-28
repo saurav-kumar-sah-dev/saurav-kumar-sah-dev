@@ -55,28 +55,8 @@ Final‑year B.Tech CSE and MERN stack developer focused on building scalable, p
     height="158"
     style="vertical-align:top; margin:4px;"
   />
-  <!-- GitHub Streak (robust with mirrors + PNG fallback) -->
-<a href="https://streak-stats.demolab.com" target="_blank" rel="noreferrer">
-  <picture>
-    <!-- Primary (SVG) -->
-    <source
-      srcset="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=460&date_format=j%20M%5B%20Y%5D&v=7"
-      type="image/svg+xml"
-    />
-    <!-- Mirror (SVG) -->
-    <source
-      srcset="https://streak-stats.salesp07.dev?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=460&date_format=j%20M%5B%20Y%5D&v=7"
-      type="image/svg+xml"
-    />
-    <!-- Fallback (PNG) -->
-    <img
-      src="https://streak-stats.demolab.com?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true&card_width=460&date_format=j%20M%5B%20Y%5D&type=png&v=7"
-      alt="GitHub streak"
-      style="vertical-align:top; margin:4px;"
-      loading="lazy"
-    />
-  </picture>
-</a>
+<img src="https://streak-stats.demolab.com/?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true"
+     alt="GitHub streak" height="158" style="vertical-align:top; margin:4px;" />
 </div>
 <div align="left">
   <img

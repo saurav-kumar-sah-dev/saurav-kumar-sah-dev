@@ -45,19 +45,14 @@ Final-year **B.Tech CSE** student and **Full-Stack (MERN) Developer** passionate
 
 - **Connestro** — Where connections grow stronger — a real-time social platform with messaging, calls, stories, reels, and moderation, built using Node.js, Express, MongoDB, Socket.IO, WebRTC, and React (Vite).  
   `React` `Vite` `Node.js` `Express` `MongoDB` `Socket.IO` `WebRTC`
-
 - **Kommercen** — Full-stack e-commerce platform with JWT authentication, Razorpay integration, Cloudinary media, and a role-based admin dashboard.  
   `React` `Express` `MongoDB` `Razorpay` `Cloudinary` `JWT`
-
 - **SyncRunCode** — Modern online code compiler & IDE with real-time collaboration, 6-language support, project management, user authentication, admin dashboard, and live WebSocket editing.  
   `React` `WebSockets` `Node.js` `Express` `Monaco Editor`
-
 - **BlogAxis** — Full-featured MERN stack blog application with authentication, content management, and admin controls. Includes drafts, user profiles, real-time notifications, and moderation tools.  
   `MERN` `Realtime` `JWT` `Node.js`
-
 - **Portfolio Website** — Modern personal portfolio built with the MERN stack and Tailwind CSS. Showcases projects, skills, and experience with dark/light mode and a contact form.  
   `MERN` `Tailwind` `Vercel`
-
 - **Four Connect Game** — A modern, accessible Connect Four–style browser game. Play two-player or solo vs AI (easy/medium), resize the board, use keyboard shortcuts, and enjoy smooth animations with dark/light themes. Scores and settings persist via localStorage.  
   `HTML` `CSS` `JavaScript` `LocalStorage`
 

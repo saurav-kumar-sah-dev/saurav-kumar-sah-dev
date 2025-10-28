@@ -20,13 +20,15 @@
 
 ---
 
-### 👨‍💻 About
-Final‑year B.Tech CSE and MERN stack developer focused on building scalable, production‑ready web apps with clean UX, robust APIs, and real‑time features.
+### 👨‍💻 About  
+Final-year **B.Tech CSE** student and **Full-Stack (MERN) Developer** passionate about building scalable, production-ready web applications with clean UX, secure APIs, and real-time features. Alongside full-stack development, I regularly practice **Java and DSA** to strengthen my problem-solving and backend logic skills.  
 
-- Currently: shipping full‑stack products with JWT auth, Razorpay checkout, Cloudinary media, and admin dashboards
-- Strengths: e‑commerce flows, performance tuning, Socket.IO/WebRTC, reliable Node/Express backends, Vercel/Render deployments
-- Daily tools: React + Vite, Tailwind, React Router, Context API, Node.js, Express, MongoDB/Mongoose
-- Interests: e‑commerce, collaboration tools, real‑time experiences
+- **Currently:** Developing full-stack products with JWT auth, Razorpay payments, Cloudinary media, and role-based admin dashboards  
+- **Strengths:** E-commerce flows, performance optimization, Socket.IO/WebRTC, and reliable Node/Express backends  
+- **Daily Tools:** React + Vite, Tailwind, React Router, Context API, Node.js, Express, MongoDB/Mongoose  
+- **Additional Skills:** Java, DSA, OOPs, REST APIs, Git/GitHub, Vercel/Render/Netlify deployments  
+- **Interests:** Scalable web apps, real-time collaboration tools, and modern UI/UX experiences  
+
 
 
 ### 🧰 Stack

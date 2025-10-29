@@ -219,7 +219,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=saurav-kumar-sah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-kumar-sah-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>

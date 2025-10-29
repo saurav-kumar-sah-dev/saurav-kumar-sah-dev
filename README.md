@@ -216,10 +216,10 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=saurav-kumar-sah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-kumar-sah-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-kumar-sah-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -228,7 +228,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-kumar-sah-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurav-kumar-sah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <br>
@@ -259,14 +259,14 @@
 <br>
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sauravshubham903@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
+    <a href="https://www.linkedin.com/in/sauravkumarsah-dev">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://saurav-portfolio-dun.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sauravkumarsah-dev">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
 </div>
 

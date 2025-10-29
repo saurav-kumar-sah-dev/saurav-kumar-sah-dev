@@ -18,6 +18,9 @@
   <a href="https://www.geeksforgeeks.org/user/sauravkumarsahdev/">
     <img src="https://img.shields.io/badge/🧠_GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F9D58" alt="GeeksforGeeks" />
   </a>
+    <a href="https://www.instagram.com/saurav_shubham903">
+    <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+  </a>
 </div>
 
 <br>

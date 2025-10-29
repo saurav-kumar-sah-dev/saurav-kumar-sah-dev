@@ -52,7 +52,7 @@
         <ul align="left">
           <li>🔐 JWT Authentication Systems</li>
           <li>💳 Razorpay Payment Integration</li>
-          <li>☁️ Cloudinary Media Management   </li>
+          <li>☁️ Cloudinary Media Management</li>
           <li>👑 Role-based Admin Dashboards</li>
         </ul>
       </td>

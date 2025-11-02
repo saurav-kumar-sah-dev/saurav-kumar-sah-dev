@@ -233,11 +233,6 @@
 
 <br>
 
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=saurav-kumar-sah-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 <br>
 
 <div align="center">

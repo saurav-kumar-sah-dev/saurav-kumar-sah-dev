@@ -4,10 +4,9 @@
 
 ### 🚀 Full-Stack MERN Developer | React, Node.js, MongoDB | Java & DSA Enthusiast | Final-year CSE Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saurav-portfolio-dun.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravkumarsah-dev/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sauravkumarsahdev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saurav_shubham903/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saurav-portfolio-dun.vercel.app/)
 
 </div>
 
@@ -26,6 +25,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -36,6 +36,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cu
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -86,8 +87,6 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cu
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurav-kumar-sah-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFC107)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=saurav-kumar-sah-dev&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-kumar-sah-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D)
 
 </div>
@@ -117,10 +116,9 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, cu
 
 I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
 
-- 📧 **Email:** [Contact via LinkedIn](https://www.linkedin.com/in/sauravkumarsah-dev/)
+- 📧 **Email:** [sauravshubham903@gmail.com](mailto:sauravshubham903@gmail.com)
 - 💼 **LinkedIn:** [sauravkumarsah-dev](https://www.linkedin.com/in/sauravkumarsah-dev/)
 - 🌐 **Portfolio:** [saurav-portfolio-dun.vercel.app](https://saurav-portfolio-dun.vercel.app/)
-- 📝 **GeeksforGeeks:** [sauravkumarsahdev](https://www.geeksforgeeks.org/user/sauravkumarsahdev/)
 
 ---
 

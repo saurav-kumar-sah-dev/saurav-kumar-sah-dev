@@ -5,7 +5,6 @@
 ### 🚀 Full-Stack MERN Developer | React, Node.js, MongoDB | Java & DSA Enthusiast | Final-year CSE Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravkumarsah-dev/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sauravkumarsahdev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saurav-portfolio-dun.vercel.app/)
 
 </div>

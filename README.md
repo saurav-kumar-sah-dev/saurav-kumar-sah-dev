@@ -14,7 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, currently pursuing my final year in Computer Science Engineering. I love building scalable web applications, solving complex problems, and continuously learning new technologies. When I'm not coding, you'll find me practicing Data Structures & Algorithms or exploring the latest tech trends.
+I'm **Saurav Kumar Sah**, a **Full-Stack MERN Developer** passionate about building scalable, high-performance web applications with clean code, secure APIs, and modern UI/UX. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and focus on developing efficient, maintainable, and impactful web solutions.
+
+Alongside full-stack development, I actively explore **Java** and **Data Structures & Algorithms (DSA)** to strengthen my problem-solving and backend logic. I enjoy collaborating on real-world projects, optimizing performance, and implementing modern features like authentication, payments, and real-time communication.
 
 ---
 

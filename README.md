@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Saurav Kumar Sah
 
-### 🚀 Full-Stack MERN Developer | React, Node.js, MongoDB | Java & DSA Enthusiast | Final-year CSE Student
+### 🚀 Aspiring Software Engineer | MERN Stack Developer | Java & DSA | Final Year B.Tech CSE | Open to Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravkumarsah-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saurav-portfolio-dun.vercel.app/)
